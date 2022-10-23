@@ -1,0 +1,71 @@
+{
+  "categories": [
+    {
+      "category": "University Admission",
+      "sub-categories": [
+        {
+          "sub-category": "Dhaka University",
+          "units": [
+            {
+              "unit": "A Unit"
+            },
+            {
+              "unit": "B Unit"
+            }
+          ]
+        },
+        {
+          "sub-category": "Chittagong University",
+          "units": [
+            {
+              "unit": "C Unit"
+            },
+            {
+              "unit": "D Unit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Medical Admission",
+      "sub-categories": [
+        {
+          "sub-category": "Government Medical",
+          "units": [
+            {
+              "unit": "All"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Others Job",
+      "sub-categories": [
+        {
+          "sub-category": "Bank Jobs",
+          "units": [
+            {
+              "unit": "Islami Bank"
+            },
+            {
+              "unit": "Bangladesh Bank"
+            }
+          ]
+        },
+        {
+          "sub-category": "IT Jobs",
+          "units": [
+            {
+              "unit": "Govt. IT"
+            },
+            {
+              "unit": "NGO"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
